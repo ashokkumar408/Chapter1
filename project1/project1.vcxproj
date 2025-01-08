@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Exercise_1.5.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
