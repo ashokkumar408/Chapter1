@@ -21,5 +21,13 @@
     <ClCompile Include="Exercise_1.4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exercise_1.3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
