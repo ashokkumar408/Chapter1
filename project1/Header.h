@@ -7,4 +7,7 @@ void Main1_3();
 //Exercise_1.4: Write a program to print the corresponding Celsius to Fahrenheit table.
 void Main1_4();
 
+// Exercise_1.6: verify that the expression getchar() != eof is 0 or 1.
+void Main1_6();
+
 #endif HEADER_H
