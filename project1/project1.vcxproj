@@ -22,6 +22,7 @@
     <ClCompile Include="Exercise_1.4.c" />
     <ClCompile Include="Exercise_1.3.c" />
     <ClCompile Include="Exercise_1.6.c" />
+    <ClCompile Include="Exercise_1.7.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>

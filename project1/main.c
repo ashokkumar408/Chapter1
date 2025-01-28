@@ -7,4 +7,5 @@ main()
 	Main1_3();
 	Main1_4();
 	Main1_6();
+	Main1_7();
 }
